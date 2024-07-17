@@ -463,41 +463,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Center Alisson Manouvrier
       objectReference: {fileID: 0}
-    - target: {fileID: 7390153626274890702, guid: 4c6641210aff98f46b360ce455cf2e51,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.3
-      objectReference: {fileID: 0}
-    - target: {fileID: 7390153626274890702, guid: 4c6641210aff98f46b360ce455cf2e51,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.3
-      objectReference: {fileID: 0}
-    - target: {fileID: 7390153626274890702, guid: 4c6641210aff98f46b360ce455cf2e51,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.3
-      objectReference: {fileID: 0}
-    - target: {fileID: 7390153626274890702, guid: 4c6641210aff98f46b360ce455cf2e51,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 1.76
-      objectReference: {fileID: 0}
-    - target: {fileID: 7390153626274890702, guid: 4c6641210aff98f46b360ce455cf2e51,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.72
-      objectReference: {fileID: 0}
-    - target: {fileID: 7390153626274890702, guid: 4c6641210aff98f46b360ce455cf2e51,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -1.04
-      objectReference: {fileID: 0}
-    - target: {fileID: 8271853981073997217, guid: 4c6641210aff98f46b360ce455cf2e51,
-        type: 3}
-      propertyPath: m_Name
-      value: AlissonPlace
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
