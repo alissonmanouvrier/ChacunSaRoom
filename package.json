@@ -3,7 +3,11 @@
   "displayName": "Chacunmaroom Alisson",
   "version": "1.8.15",
   "unity": "2020.3",
-  "description": "Chacun ma room"
-  "author":  "AlissonManouvrier"
-  
+  "description": "Chacun ma room",
+  "author": {
+    "name": "Alisson Manouvrier",
+    "email": "yourname@yourcompany.com",
+    "url": "https://yourcompany.com/"
+  }
+
 }
